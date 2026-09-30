@@ -1,10 +1,10 @@
 title: Algorithms for Problem Solving
 # subtitle:
-lang: fi # Or fi for Finnish
+lang: en # Or fi for Finnish
 baseurl: "/material"
 url: "https://hy-aps.github.io"
 # Uncomment to change the theme color:
-# theme-color: '#60a6ec'
+theme-color: '#e76c97'
 
 remote_theme: ollpu/jekyll-course-theme@v2
 
